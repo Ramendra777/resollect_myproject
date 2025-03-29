@@ -6,7 +6,7 @@ This project is a React-based web application developed as part of a take-home a
 
 ## 🚀 Live Demo
 
-🔗 [Deployed Link](https://assignment-frontend-gules.vercel.app/)
+🔗 [Deployed Link]((https://resollect-myproject.vercel.app/))
 
 ---
 
